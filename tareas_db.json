@@ -1,1 +1,122 @@
-{"tareas": {}}
+[
+  {
+    "id": 1,
+    "titulo": "Completar informe",
+    "descripcion": "Terminar el informe del proyecto",
+    "estado": "Pendiente",
+    "creada": "2023-05-25",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 2,
+    "titulo": "Reunión de equipo",
+    "descripcion": "Asistir a la reunión de equipo a las 10:00 a.m.",
+    "estado": "Pendiente",
+    "creada": "2023-05-25",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 3,
+    "titulo": "Enviar correo de seguimiento",
+    "descripcion": "Enviar un correo de seguimiento a los clientes",
+    "estado": "Completada",
+    "creada": "2023-05-24",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 4,
+    "titulo": "Investigar nuevas herramientas",
+    "descripcion": "Investigar y evaluar nuevas herramientas para el proyecto",
+    "estado": "Pendiente",
+    "creada": "2023-05-24",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 5,
+    "titulo": "Actualizar base de datos",
+    "descripcion": "Realizar una actualización de la base de datos",
+    "estado": "Pendiente",
+    "creada": "2023-05-23",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 6,
+    "titulo": "Resolver errores",
+    "descripcion": "Corregir los errores identificados en el sistema",
+    "estado": "Completada",
+    "creada": "2023-05-23",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 7,
+    "titulo": "Revisar documentación",
+    "descripcion": "Revisar y actualizar la documentación del proyecto",
+    "estado": "Pendiente",
+    "creada": "2023-05-22",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 8,
+    "titulo": "Realizar pruebas de rendimiento",
+    "descripcion": "Ejecutar pruebas de rendimiento en el sistema",
+    "estado": "Pendiente",
+    "creada": "2023-05-22",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 9,
+    "titulo": "Preparar presentación",
+    "descripcion": "Preparar la presentación para el cliente",
+    "estado": "Completada",
+    "creada": "2023-05-21",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 10,
+    "titulo": "Analizar datos",
+    "descripcion": "Realizar análisis de datos del proyecto",
+    "estado": "Pendiente",
+    "creada": "2023-05-21",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 11,
+    "titulo": "Revisar diseño de interfaz",
+    "descripcion": "Evaluar y mejorar el diseño de la interfaz de usuario",
+    "estado": "Pendiente",
+    "creada": "2023-05-20",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 12,
+    "titulo": "Resolver problemas de seguridad",
+    "descripcion": "Solucionar problemas de seguridad en el sistema",
+    "estado": "Completada",
+    "creada": "2023-05-20",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 13,
+    "titulo": "Realizar capacitación",
+    "descripcion": "Participar en una capacitación sobre nuevas tecnologías",
+    "estado": "Pendiente",
+    "creada": "2023-05-19",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 14,
+    "titulo": "Configurar entorno de desarrollo",
+    "descripcion": "Configurar el entorno de desarrollo para el proyecto",
+    "estado": "Pendiente",
+    "creada": "2023-05-19",
+    "actualizada": "2023-05-25"
+  },
+  {
+    "id": 15,
+    "titulo": "Realizar pruebas de usabilidad",
+    "descripcion": "Realizar pruebas de usabilidad con usuarios reales",
+    "estado": "Completada",
+    "creada": "2023-05-18",
+    "actualizada": "2023-05-25"
+  }
+]
