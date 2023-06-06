@@ -35,8 +35,8 @@ class Tarea:
 
 class AdminTarea:
     def __init__(self):
-        db = TinyDB('tareas_db.json')
-        self.tareas_table = db.table('tareas')
+        self.db = TinyDB('tareas_db.json')
+        self.tareas_table = self.db.table('tareas')
 
     def agregar_tarea(self, tarea: Tarea) -> int:
         tarea_dict = tarea.to_dict()
